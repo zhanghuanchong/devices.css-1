@@ -1,17 +1,17 @@
 {
   "name": "marvel-devices.css",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Marvel Devices",
-  "main": "Gruntfile.js",
-  "scripts": {
-    "test": "/"
-  },
+  "main": "assets/devices.min.css",
   "repository": {
     "type": "git",
-    "url": "/"
+    "url": "https://github.com/zhanghuanchong/devices.css-1.git"
   },
   "keywords": [
-    "/"
+    "devices.css",
+    "device frame",
+    "devices",
+    "marvel-devices.css"
   ],
   "author": "@olegtsaplin",
   "license": "ISC",
